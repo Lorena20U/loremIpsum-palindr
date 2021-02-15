@@ -1,0 +1,12 @@
+1. Escriba un programa que a partir de un solo párrafo "lorem ipsum" (https://loremipsum.io/) 
+devuelva un histograma con los 10 caracteres más repetidos. Top 6 ejemplo:
+L   42  ******************************************
+E   38  **************************************
+T   32  ********************************
+U   29  *****************************
+A   29  *****************************
+O   29  *****************************
+
+2. Escriba un programa que verifique el uso de cadenas y matrices si todas las palabras 
+de un párrafo son palíndromos o no y muestre las palabras que no son palíndromos de la siguiente lista CSV:
+(Ver CSV)
